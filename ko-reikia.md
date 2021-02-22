@@ -46,11 +46,3 @@ Bendrai visi paskaitų įrašai yra Youtube (search: Rimantas) https://www.youtu
 **Git** - kodo versijavimo sistema. Ji skirta sekti vis kartas nuo karto išsaugomus projekto (tiek kodo, tiek kito turinio) pokyčius. Sudaroma pokyčių istorija leidžia, esant poreikiui, atstatyti projektą į tą versiją, kuri dar veikė gerai/pageijamai. Taip pat, su šia sistema, komandinis darbas tampa itin sklandus, be ko šiuolaikinis programuotojų darbas (ypaš įmonėse) yra neįmanomas.
 
 **Github** - tinklapis/platforma, kuris teikia _Git_ projektų talpinimo paslaugą. Jame taip pat galima valdyti su projektu susijusius darbus, valdyti komandinį darbą, paskirstyti užduotis. Kas liečia tik _front-end'inius_ projektus, tai yra galimybė tokį projektą rodyti viešai, kuris tampa pasiekiamas per nuorodą.
-
-### **Ko reikia norint visu šituo naudotis?**
-
-**Github** - susikurti paskyrą - https://github.com/
-
-**Git** - įsidiegti - https://git-scm.com/downloads
-
-**Githus Desktop** - įsidiegti ir prisijungti prie jo su savo _Github_ paskyra - https://desktop.github.com/
