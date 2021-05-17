@@ -14,7 +14,7 @@
 - _Git_ - kodo versijavimo sistema - https://git-scm.com/downloads
 
 - _Klientinė dalis darbui su Git/Github_:
-  - _Githus Desktop_ https://desktop.github.com/
+  - _Github Desktop_ https://desktop.github.com/
   - _Git Kraken_ https://www.gitkraken.com/
 
 **Dizaino programa** - galimų pasirinkimų yra daug, tad rinkitės pagal situaciją:
