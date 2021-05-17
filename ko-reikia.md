@@ -2,9 +2,7 @@
 
 ## **_Reikalingos įsidiegti programos_**:
 
-**Google Chrome** - naršyklė, kuri užima ~65-70 rinkos ir dirbti ne ant jos būtų kažkuria prasme nusikaltimas, tad nedarom nusikaltimo ir naudojam ją! 🚓 Papildomai, dirbant naudinga įsidiegti papildinius (extensions):
-
-- Pesticide - pažymi elementų ribas - https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh
+**Google Chrome** - naršyklė, kuri užima ~65-70 rinkos ir dirbti ne ant jos būtų kažkuria prasme nusikaltimas, tad nedarom nusikaltimo ir naudojam ją! 🚓 Papildomai, dirbant naudinga įsidiegti papildinius (extensions)
 
 **Visual Studio Code** - kodo redaktorius - https://code.visualstudio.com/download Papildomai rekomenduoju įsidiegti papildinius (extensions):
 
