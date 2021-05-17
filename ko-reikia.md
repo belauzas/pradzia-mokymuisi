@@ -15,6 +15,7 @@
 
 - _Klientinė dalis darbui su Git/Github_:
   - _Github Desktop_ https://desktop.github.com/
+  - _Source tree_ https://www.sourcetreeapp.com/
   - _Git Kraken_ https://www.gitkraken.com/
 
 **Dizaino programa** - galimų pasirinkimų yra daug, tad rinkitės pagal situaciją:
